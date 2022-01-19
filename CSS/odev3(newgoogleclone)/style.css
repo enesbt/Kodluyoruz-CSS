@@ -1,0 +1,82 @@
+.main-div{
+    width: 1500px;
+    height: 710px;
+    display: inline;
+}
+.nav-div div{
+    width: 1500px;
+    height: 48px;
+    text-align: end;
+    word-spacing: 12px;
+
+}
+.orta{
+    width: 1500px;
+    height: 160px;
+    position: absolute;
+    top: 100px;
+    text-align: center;
+
+}
+.buton{
+    width: 1500px;
+    height: 160px;
+    position: absolute;
+    top: 220px;
+    text-align: center;
+    
+    
+}
+.bos{
+    width: 1500px;
+    height: 196px;
+   
+}
+.footer{
+    width: 1500px;
+    height: 146px;
+    position: absolute;
+    bottom: 0px;
+    
+}
+.navdiv-1{
+    text-align: right;
+    list-style: none;
+    position: absolute;
+    left: 10px;
+}
+.navdiv-1 li {
+    display: inline;
+    
+}
+#text{
+   width: 500px;
+   height: 30px;
+   border: 1px solid;
+   color: #f2f2f2c0;
+}
+.footer{
+    list-style: none;
+    position: absolute;
+    left: 10px;
+
+}
+.footer li{
+    display: inline;
+
+
+}
+.firstfooter{
+
+    position: absolute;
+    left: 10px;
+    bottom: 0px;
+    word-spacing: 15px;
+
+}
+.secfooter{
+    position: absolute;
+    right: 10px;
+    bottom: 0px;
+}
+

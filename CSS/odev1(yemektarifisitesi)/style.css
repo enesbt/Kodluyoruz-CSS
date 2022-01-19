@@ -1,0 +1,78 @@
+
+#baslık{
+    color: rgb(9, 9, 90);
+    text-align: center;
+    font-size: 40px;
+    font-family: monospace;
+
+}
+.navbardiv{
+    width: 350px;
+    height: 50px;
+    margin: 10px;
+    padding: 15px;
+    position: absolute;
+    left: 550px;
+}
+.navbaritem{
+    list-style: none;
+    color: aqua;
+    font-size: 20px;
+    font-family: monospace;
+
+}
+.navbaritem li{
+    display: inline;
+    color: aqua;
+}
+.div2{
+   
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    top: 200px;
+    left: 520px;
+    text-align: center;
+}
+#h2{
+    color: royalblue;
+    font-family: monospace;
+}
+#anayazı{
+    font-family: monospace;
+    font-size: 20px;
+    
+}
+#h3{
+    color: royalblue;
+    font-family: monospace;
+    font-size: 20px;
+}
+.ul{
+    list-style: none;
+    font-family: monospace;
+    font-size: 20px;
+}
+.urunler{
+    list-style: none;
+    font-family: monospace;
+    color: blue;
+    font-size: 20px;
+}
+.urunlerdiv{
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    text-align: center;
+}
+.hakkımdadiv{
+    width: 1500px;
+    height: 50px;
+    margin: 10px;
+    padding: 15px;
+    position: absolute;
+    top: 200px;
+
+}
